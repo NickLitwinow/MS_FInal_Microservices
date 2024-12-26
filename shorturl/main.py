@@ -1,12 +1,9 @@
-import random
-import string
-
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import RedirectResponse
 from pydantic import BaseModel
-
-import models
 from database import get_db, create_tables
+import models
+import string, random
 
 app = FastAPI(
     title="Short URL Service",
@@ -55,7 +52,7 @@ def create_short_url(data: URLRequest):
     return URLResponse(short_id=new_record.short_id, full_url=new_record.full_url)
 
 
-@app.get("/{short_id}", response_model=URLResponse)
+@app.get("/{short_id}")
 def redirect_to_full_url(short_id: str):
     db = get_db()
     record = db.query(models.ShortURL).filter(models.ShortURL.short_id == short_id).first()
