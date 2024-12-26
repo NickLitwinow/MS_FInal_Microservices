@@ -61,26 +61,36 @@
 
 ### Примеры shorturl
 Все эндпоинты:
-![Screenshot 2024-12-26 at 08.07.48.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkk%2F2t7q31r53hz60_94_r8w7sh00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_SFrNGS%2FScreenshot%202024-12-26%20at%2008.07.48.png)
+<img width="1416" alt="Screenshot 2024-12-26 at 08 24 17" src="https://github.com/user-attachments/assets/bf7286b7-f777-4b02-a2f8-2d4369fa26b3" />
+
 Работа сокращения ссылки:
-![Screenshot 2024-12-26 at 08.07.09.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkk%2F2t7q31r53hz60_94_r8w7sh00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_GyKyJZ%2FScreenshot%202024-12-26%20at%2008.07.09.png)
+<img width="1366" alt="Screenshot 2024-12-26 at 08 24 03" src="https://github.com/user-attachments/assets/bef8eb86-6653-4334-820c-7228e90ac9f5" />
+
 Получение полной ссылки по сокращенной:
-![Screenshot 2024-12-26 at 08.07.31.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkk%2F2t7q31r53hz60_94_r8w7sh00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_nGC9oS%2FScreenshot%202024-12-26%20at%2008.07.31.png)
+<img width="1373" alt="Screenshot 2024-12-26 at 08 24 41" src="https://github.com/user-attachments/assets/ab114cd6-569a-4db6-aaa3-04dfac7782ec" />
+
 Вводим значение сокращенной ссылки для редиректа:
-![Screenshot 2024-12-26 at 08.08.07.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkk%2F2t7q31r53hz60_94_r8w7sh00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_rp2MUO%2FScreenshot%202024-12-26%20at%2008.08.07.png)
+<img width="337" alt="Screenshot 2024-12-26 at 08 25 03" src="https://github.com/user-attachments/assets/a174e189-ed00-4c04-9a80-cc799881f698" />
+
 Пересылаемся на полную ссылку:
-![Screenshot 2024-12-26 at 08.08.16.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkk%2F2t7q31r53hz60_94_r8w7sh00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_mZYJ2D%2FScreenshot%202024-12-26%20at%2008.08.16.png)
+<img width="1440" alt="Screenshot 2024-12-26 at 08 25 17" src="https://github.com/user-attachments/assets/ce1b68d3-15b1-4812-b54c-702bc733bdf9" />
+
 
 ### Примеры todo
 Все эндпоинты:
-![Screenshot 2024-12-26 at 08.10.14.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkk%2F2t7q31r53hz60_94_r8w7sh00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_1JSUE6%2FScreenshot%202024-12-26%20at%2008.10.14.png)
+<img width="1413" alt="Screenshot 2024-12-26 at 08 20 58" src="https://github.com/user-attachments/assets/7b7c7a65-b6b0-4156-bbb3-eede5b82672d" />
+
 Добавляем задачу 1:
-![Screenshot 2024-12-26 at 08.11.09.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkk%2F2t7q31r53hz60_94_r8w7sh00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_NYgldd%2FScreenshot%202024-12-26%20at%2008.11.09.png)
+<img width="1358" alt="Screenshot 2024-12-26 at 08 21 39" src="https://github.com/user-attachments/assets/70d31b29-ad07-4e6f-942e-dee82fe9ab04" />
+
 Добавляем задачу 2:
-![Screenshot 2024-12-26 at 08.12.07.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkk%2F2t7q31r53hz60_94_r8w7sh00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_BqNzxo%2FScreenshot%202024-12-26%20at%2008.12.07.png)
+<img width="1373" alt="Screenshot 2024-12-26 at 08 22 13" src="https://github.com/user-attachments/assets/10ca2f77-b9d4-4006-adb9-fdcf8c7acdee" />
+
 Смотрим свои планы на ближайшее будущее:
-![Screenshot 2024-12-26 at 08.12.44.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkk%2F2t7q31r53hz60_94_r8w7sh00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_TFVNaX%2FScreenshot%202024-12-26%20at%2008.12.44.png)
+<img width="1370" alt="Screenshot 2024-12-26 at 08 22 28" src="https://github.com/user-attachments/assets/8f007966-f756-427a-97cc-5fad4b2b6436" />
+
 Понимаем что какие-то цели надо скорректировать:
-![Screenshot 2024-12-26 at 08.13.59.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkk%2F2t7q31r53hz60_94_r8w7sh00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_vUgNMw%2FScreenshot%202024-12-26%20at%2008.13.59.png)
+<img width="1370" alt="Screenshot 2024-12-26 at 08 23 13" src="https://github.com/user-attachments/assets/7ebd95d7-eb20-426d-a21f-3c8ebdb38905" />
+
 А какие-то удаляем тк они несбыточны:
-![Screenshot 2024-12-26 at 08.14.38.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkk%2F2t7q31r53hz60_94_r8w7sh00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_okURX4%2FScreenshot%202024-12-26%20at%2008.14.38.png)
+<img width="1367" alt="Screenshot 2024-12-26 at 08 23 34" src="https://github.com/user-attachments/assets/f418876a-af5b-4fec-83e4-98887ecb5ecb" />
